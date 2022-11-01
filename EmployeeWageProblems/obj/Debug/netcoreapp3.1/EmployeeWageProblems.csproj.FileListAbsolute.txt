@@ -1,0 +1,14 @@
+C:\Users\hp\Desktop\New folder\EmployeeWageProblems\EmployeeWageProblems\bin\Debug\netcoreapp3.1\EmployeeWageProblems.exe
+C:\Users\hp\Desktop\New folder\EmployeeWageProblems\EmployeeWageProblems\bin\Debug\netcoreapp3.1\EmployeeWageProblems.deps.json
+C:\Users\hp\Desktop\New folder\EmployeeWageProblems\EmployeeWageProblems\bin\Debug\netcoreapp3.1\EmployeeWageProblems.runtimeconfig.json
+C:\Users\hp\Desktop\New folder\EmployeeWageProblems\EmployeeWageProblems\bin\Debug\netcoreapp3.1\EmployeeWageProblems.runtimeconfig.dev.json
+C:\Users\hp\Desktop\New folder\EmployeeWageProblems\EmployeeWageProblems\bin\Debug\netcoreapp3.1\EmployeeWageProblems.dll
+C:\Users\hp\Desktop\New folder\EmployeeWageProblems\EmployeeWageProblems\bin\Debug\netcoreapp3.1\EmployeeWageProblems.pdb
+C:\Users\hp\Desktop\New folder\EmployeeWageProblems\EmployeeWageProblems\obj\Debug\netcoreapp3.1\EmployeeWageProblems.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\New folder\EmployeeWageProblems\EmployeeWageProblems\obj\Debug\netcoreapp3.1\EmployeeWageProblems.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\New folder\EmployeeWageProblems\EmployeeWageProblems\obj\Debug\netcoreapp3.1\EmployeeWageProblems.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\New folder\EmployeeWageProblems\EmployeeWageProblems\obj\Debug\netcoreapp3.1\EmployeeWageProblems.AssemblyInfo.cs
+C:\Users\hp\Desktop\New folder\EmployeeWageProblems\EmployeeWageProblems\obj\Debug\netcoreapp3.1\EmployeeWageProblems.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\New folder\EmployeeWageProblems\EmployeeWageProblems\obj\Debug\netcoreapp3.1\EmployeeWageProblems.dll
+C:\Users\hp\Desktop\New folder\EmployeeWageProblems\EmployeeWageProblems\obj\Debug\netcoreapp3.1\EmployeeWageProblems.pdb
+C:\Users\hp\Desktop\New folder\EmployeeWageProblems\EmployeeWageProblems\obj\Debug\netcoreapp3.1\EmployeeWageProblems.genruntimeconfig.cache
